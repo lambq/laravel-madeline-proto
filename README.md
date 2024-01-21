@@ -12,7 +12,7 @@ This is a forked package from [setiawanhu/laravel-madeline-proto](https://github
 Add the laravel-madeline-proto to the project dependency:
 
 ```shell script
-composer require ousid/laravel-madeline-proto
+composer require lambq/laravel-madeline-proto
 ```
 
 Then publish the `telegram.php` config file:
