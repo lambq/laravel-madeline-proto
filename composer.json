@@ -3,6 +3,7 @@
     "description": "A third party Telegram client library danog/MadelineProto wrapper for Laravel",
     "type": "library",
     "license": "AGPL-3.0-only",
+    "minimum-stability": "beta",
     "authors": [
         {
             "name": "lambq",
@@ -16,7 +17,7 @@
     ],
     "require": {
         "php": "^7.4|^8.2",
-        "danog/madelineproto": "^8.0.0-beta188"
+        "danog/madelineproto": "^8"
     },
     "autoload": {
         "psr-4": {
