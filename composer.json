@@ -2,18 +2,14 @@
     "name": "lambq/laravel-madeline-proto",
     "description": "A third party Telegram client library danog/MadelineProto wrapper for Laravel",
     "type": "library",
-    "license": "AGPL-3.0-only",
-    "minimum-stability": "beta",
+    "keywords": ["laravel", "telegram", "madeline-proto"],
+    "homepage": "https://github.com/lambq/laravel-madeline-proto",
+    "license": "MIT",
     "authors": [
         {
             "name": "lambq",
             "email": "any@rushangkeji.com"
         }
-    ],
-    "keywords": [
-        "laravel",
-        "telegram",
-        "madeline-proto"
     ],
     "require": {
         "php": "^7.4|^8.2",
