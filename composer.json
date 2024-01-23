@@ -5,6 +5,7 @@
     "keywords": ["laravel", "telegram", "madeline-proto"],
     "homepage": "https://github.com/lambq/laravel-madeline-proto",
     "license": "MIT",
+    "minimum-stability": "beta",
     "authors": [
         {
             "name": "lambq",
